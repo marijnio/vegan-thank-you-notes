@@ -23,6 +23,8 @@ The designs are configured according to the following specifications:
 - Designer black for opaque black areas (C=70, M=50, Y=30, K=100)
 - PDF/X-1a(2001) selected upon export
 
+Example show the standard EU size.
+
 ## Sources used
 
 Fonts:
