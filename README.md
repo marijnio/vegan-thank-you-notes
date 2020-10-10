@@ -9,7 +9,7 @@ Business cards typically cost very little, making it a very cheap way to leave y
 2. Download the PDF in the size that applies to you since these cards have varying sizes across the globe.
 3. Order a stack of standard business cards with the PDF at an online print shop that serves your area.
 
-*Make sure check if your print shop has corresponding file specifications for their services. The ones in use may be found below, but are quite common.*
+*Make sure check if your print shop has corresponding file specifications for their services. The ones in use are quite common and may be found below.*
 
 ## Files
 
