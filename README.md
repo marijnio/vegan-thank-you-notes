@@ -5,11 +5,11 @@ Print-ready business card sized thank you notes for you to leave some appreciati
 
 Business cards typically cost very little, making it a very cheap way to leave your message. A stack of 500 pieces with no extra finish can be found for under €20.
 
-1. Pick and choose your favorite version from the [print](print) folder.
+1. Pick and choose your favorite version from the [print](print) section.
 2. Download the PDF in the size that applies to you since these cards have varying sizes across the globe.
 3. Order a stack of standard business cards with the PDF at an online print shop that serves your area.
 
-Make sure check if your print shop has corresponding file specifications for their services. The ones in use may be found below, but are quite common.
+*Make sure check if your print shop has corresponding file specifications for their services. The ones in use may be found below, but are quite common.*
 
 ## Files
 
