@@ -1,6 +1,8 @@
 # Vegan thank you notes
 Print-ready business card sized thank you notes for you to leave some appreciation at restaurants for having vegan options on the menu.
 
+![Mockup](meta/mockup-small.jpg)
+
 ## Usage
 
 Business cards typically cost very little, making it a very cheap way to leave your message. A stack of 500 pieces with no extra finish can be found for under €20.
