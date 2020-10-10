@@ -18,6 +18,13 @@ The designs are configured according to the following specifications:
 - Designer black for opaque black areas (C=70, M=50, Y=30, K=100)
 - PDF/X-1a(2001) selected upon export
 
+## Sources used
+
+Fonts:
+
+- [Kalam](https://fonts.google.com/specimen/Kalam)
+- [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
+
 ## Contribution
 
 Feel free to fork the repository, make changes according to your wishes and contribute in any way you see fit.
