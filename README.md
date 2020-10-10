@@ -1,4 +1,4 @@
-# vegan-calling-cards
+# Vegan calling cards
 Print-ready business card sized thank you notes for showing appreciation of having vegan options on the menu.
 
 ## Usage
