@@ -1,4 +1,4 @@
-# Veg options thank you notes
+# Vegan thank you notes
 Print-ready business card sized thank you notes for you to leave some appreciation at restaurants for having vegan options on the menu.
 
 ## Usage
