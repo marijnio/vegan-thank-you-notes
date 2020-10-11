@@ -13,7 +13,7 @@ Business cards typically cost very little, making it a very cheap way to leave y
 
 **Be sure to leave this card with a nice tip!**
 
-*Make sure check if your print shop has corresponding file specifications for their services. The ones in use are quite common and may be found below.*
+*Don't forget to check if your print shop has corresponding file specifications. The specs in use are quite common and may be found below.*
 
 ## Files
 
